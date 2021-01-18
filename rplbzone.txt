@@ -1,6 +1,3 @@
-RPLBZONE RESOLUSI
-- Konsistem untuk membuat kontet 2x seminggu
-- Membuat platform untuk mengelolaan video
-- Membuat forum diskusi
-- Kolaborasi dengan lebih banyak expert
-- Membuat vlog
+project hari ini
+- mengenal git & github
+- membuat file baru

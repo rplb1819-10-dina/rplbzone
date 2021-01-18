@@ -2,5 +2,6 @@ rencana
 - Javascript
   * Frameworks Javascript
     ~ react
+    ~ vue
 - PHP Frameworks
     ~ laravel

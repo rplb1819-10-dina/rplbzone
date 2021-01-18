@@ -1,2 +1,4 @@
 - membuat Javascript
+  * view
 - membuat PHP Frameworks
+  * laravel
